@@ -120,3 +120,123 @@
   </script>
 </body>
 </html>
+your-website-folder/
+├── index.html
+└── class7/
+    ├── bangla1.html
+    ├── bangla2.html
+    ├── english1.html
+    ├── english2.html
+    ├── math.html
+    ├── science.html
+    ├── bgs.html
+    ├── agriculture.html
+    ├── religion.html
+    └── ict.html
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>গণিত - ৭ম শ্রেণী</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 30px;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      color: #2196f3;
+      text-align: center;
+    }
+    ol {
+      margin-top: 20px;
+    }
+    li {
+      margin-bottom: 15px;
+      background: #fff;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .question {
+      font-weight: bold;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>৭ম শ্রেণী - গণিত</h1>
+  <ol>
+    <li><span class="question">প্রশ্ন: সংখ্যা কাকে বলে?</span><br>উত্তর: যেগুলোর দ্বারা গণনা করা যায় তাকে সংখ্যা বলে।</li>
+    <li><span class="question">প্রশ্ন: ভগ্নাংশ কাকে বলে?</span><br>উত্তর: পূর্ণসংখ্যার অংশকে ভগ্নাংশ বলে।</li>
+    <li><span class="question">প্রশ্ন: গ.সা.গু. নির্ণয় কীভাবে করা হয়?</span><br>উত্তর: একটি সংখ্যা যেটি একাধিক সংখ্যাকে নিঃশেষে ভাগ দেয় তাকেই গ.সা.গু. বলে।</li>
+    <li><span class="question">প্রশ্ন: ল.সা.গু. নির্ণয় কীভাবে করা হয়?</span><br>উত্তর: একটি সংখ্যা যেটি একাধিক সংখ্যার গুণিতক এবং সর্বনিম্ন সংখ্যা, তাকেই ল.সা.গু. বলে।</li>
+  </ol>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>বিজ্ঞান - ৭ম শ্রেণী</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 30px; background-color: #fffde7; }
+    h1 { color: #4caf50; text-align: center; }
+    ol { margin-top: 20px; }
+    li {
+      margin-bottom: 15px;
+      background: #f1f8e9;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    .question {
+      font-weight: bold;
+      color: #2e7d32;
+    }
+  </style>
+</head>
+<body>
+  <h1>৭ম শ্রেণী - বিজ্ঞান</h1>
+  <ol>
+    <li><span class="question">প্রশ্ন: কোষ কাকে বলে?</span><br>উত্তর: জীবদেহের গঠন ও কার্যগত একক হলো কোষ।</li>
+    <li><span class="question">প্রশ্ন: জারণ ও অপচয় কাকে বলে?</span><br>উত্তর: জারণ হচ্ছে অক্সিজেনের সংযোজন, অপচয় হচ্ছে অক্সিজেনের অপসারণ।</li>
+    <li><span class="question">প্রশ্ন: শক্তির উৎস কী?</span><br>উত্তর: সূর্য হলো পৃথিবীর প্রধান শক্তির উৎস।</li>
+    <li><span class="question">প্রশ্ন: পদার্থ কাকে বলে?</span><br>উত্তর: যে সব কিছুর ভর এবং আয়তন আছে তাকে পদার্থ বলে।</li>
+  </ol>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>আইসিটি - ৭ম শ্রেণী</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 30px; background-color: #e3f2fd; }
+    h1 { color: #0288d1; text-align: center; }
+    ol { margin-top: 20px; }
+    li {
+      margin-bottom: 15px;
+      background: #ffffff;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    .question {
+      font-weight: bold;
+      color: #01579b;
+    }
+  </style>
+</head>
+<body>
+  <h1>৭ম শ্রেণী - তথ্য ও যোগাযোগ প্রযুক্তি</h1>
+  <ol>
+    <li><span class="question">প্রশ্ন: কম্পিউটার কাকে বলে?</span><br>উত্তর: কম্পিউটার একটি ইলেকট্রনিক যন্ত্র যা ডেটা প্রক্রিয়াকরণ করে।</li>
+    <li><span class="question">প্রশ্ন: ইনপুট ও আউটপুট ডিভাইস কী?</span><br>উত্তর: ইনপুট ডিভাইস দ্বারা তথ্য প্রবেশ করানো হয়, আউটপুট ডিভাইস দ্বারা ফলাফল পাওয়া যায়।</li>
+    <li><span class="question">প্রশ্ন: সফটওয়্যার ও হার্ডওয়্যার কী?</span><br>উত্তর: হার্ডওয়্যার হলো দৃশ্যমান অংশ এবং সফটওয়্যার হলো প্রোগ্রাম।</li>
+  </ol>
+</body>
+</html>
+
+      
