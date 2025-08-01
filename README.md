@@ -239,4 +239,11 @@ your-website-folder/
 </body>
 </html>
 
+A-Z-Class-3-9-/
+├── index.html
+└── class7/
+    ├── math.html
+    ├── science.html
+    ├── ict.html
+    └── ...
       
